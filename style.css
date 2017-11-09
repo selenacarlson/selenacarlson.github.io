@@ -1,7 +1,12 @@
 h1 {
     color: DarkCyan;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
     
 .img-circle {
     border-radius: 50%;
+}
+
+p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
