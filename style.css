@@ -1,3 +1,7 @@
+html, h1 {
+    color: DarkCyan;
+}
+    
 .img-circle {
     border-radius: 50%;
 }
