@@ -11,3 +11,11 @@ h1 {
 p {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
+
+.nav {
+    padding-left: 70px
+}
+
+.main {
+    padding-right: 70px
+}
