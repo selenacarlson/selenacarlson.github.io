@@ -14,11 +14,23 @@ body, html {
 .nav{
     text-decoration: none;
     font-size: 120%;
+    color: #ffc896;
+}
+
+.nav:hover{
     color: grey;
+}
+
+.nav.no-link:hover{
+    color: #ffc896;
 }
 
 .link{
     text-decoration: none;
+    color: #ffc896;
+}
+
+.link:hover{
     color: grey;
 }
 
