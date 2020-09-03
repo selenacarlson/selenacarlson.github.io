@@ -17,6 +17,10 @@ body, html {
     color: #ffc896;
 }
 
+.nav.no-link{
+    color: grey;
+}
+
 .nav:hover{
     color: grey;
     cursor: pointer;
@@ -24,6 +28,7 @@ body, html {
 
 .nav.no-link:hover{
     color: #ffc896;
+    cursor: auto;
 }
 
 .link{
