@@ -41,10 +41,6 @@ body, html {
     cursor: pointer;
 }
 
-.nav:visited{
-    color: grey;
-}
-
 img {
     padding: 20px;
 }
